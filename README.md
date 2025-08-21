@@ -1,16 +1,17 @@
-## Hi there 👋
+<!-- 메인 스탯 카드 (스크린샷과 가장 비슷) -->
+![GitHub Stats](https://github-readme-stats.vercel.app/api
+?username=tachyon6
+&show_icons=true
+&theme=dark
+&rank_icon=percentile
+&include_all_commits=true
+&custom_title=%EA%B0%95%EC%A7%80%ED%98%81%27s%20GitHub%20Stats)
 
-<!--
-**tachyon6/tachyon6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- 커밋 연속 기록 -->
+![GitHub Streak](https://streak-stats.demolab.com?user=tachyon6&theme=radical)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- 많이 쓰는 언어 카드 -->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs
+?username=tachyon6
+&layout=compact
+&theme=dark)
