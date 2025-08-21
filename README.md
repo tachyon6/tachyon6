@@ -1,18 +1,9 @@
-<!-- 방문자 카운터 및 인사 -->
-<div align="center">
-  
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=tachyon6.tachyon6)
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Ftachyon6&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Hello+World&edge_flat=false)](https://hits.seeyoufarm.com)
-
-</div>
-
-# Hi there 👋
 
 ### I'm Aaron Song
 
 <br>
 
-## Tech Stack
+**Tech Stack**
 
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
@@ -31,7 +22,7 @@
 
 <br>
 
-## I'm currently working on
+**Currently Working On**
 
 <div align="center">
   
@@ -41,11 +32,11 @@
 
 <br>
 
-## I'm currently Top Languages
+**Top Languages**
 
 <div align="center">
   
-### Most Used Languages
+Most Used Languages
   
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tachyon6&layout=donut&theme=radical&hide_border=true&bg_color=1F222E&title_color=F85D7F&text_color=FFFFFF" height="200px"/>
 
@@ -53,13 +44,13 @@
 
 <br>
 
-## GitHub Activity Graph
+**GitHub Activity Graph**
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=tachyon6&theme=tokyo-night&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <br>
 
-## GitHub Trophies
+**GitHub Trophies**
 
 <div align="center">
   
@@ -69,7 +60,7 @@
 
 <br>
 
-## How to reach me
+**How to reach me**
 
 <div align="center">
   
@@ -82,7 +73,7 @@
 
 <div align="center">
   
-### Thanks for visiting!
+Thanks for visiting!
   
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
 
